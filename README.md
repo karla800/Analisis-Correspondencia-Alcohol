@@ -21,7 +21,8 @@ Este proyecto analiza los hábitos de consumo de alcohol en estudiantes de secun
 ## 📚 Documentación y Recursos
 * 📊 **[Ver Póster del Proyecto (.pptx)](#)** *([Cartel multivariados.pptx](https://github.com/user-attachments/files/32065214/Cartel.multivariados.pptx)
 ).*
-* 📄 **[Ver Reporte Estadístico Completo (.docx)](#)** *(Nota: Sube tu archivo Proyecto AC-BASECUALITATIVA.docx y pon el link aquí).*
+* 📄 **[Ver Reporte Estadístico Completo (.docx)](#)** *([Proyecto Analisis de Correspondencia .pdf](https://github.com/user-attachments/files/32066330/Proyecto.Analisis.de.Correspondencia.pdf)
+).*
 
 ## 👩‍💻 Equipo de Investigación
 * Karla Valeria Fernandez Mendoza.
